@@ -1,2 +1,1 @@
-# GitCommandTest
-Git for test 
+Thank you for you Exam;
